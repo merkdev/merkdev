@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I’m @merkdev (An anagram from my name)
+- 👀 I’m interested in ...
+Go, Typescript, Clickhouse, DevOps...
+- 🌱 I’m currently learning ...
+GoLang
+- 📫 How to reach me ...
+mail to merkjs@aol.com
+
 <!--
 **merkdev/merkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
